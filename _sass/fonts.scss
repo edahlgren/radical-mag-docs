@@ -53,3 +53,17 @@
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf') format('truetype'),
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans') format('svg');
 }
+
+@font-face {
+  font-family: 'Dolly';
+  font-weight: 400;
+  font-style: normal;
+  src: url('../fonts/DollyPro-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Dolly';
+  font-weight: 400;
+  font-style: italic;
+  src: url('../fonts/DollyPro-RegularItalic.woff') format('woff');
+}
